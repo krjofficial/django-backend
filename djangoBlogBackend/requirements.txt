@@ -1,0 +1,11 @@
+asgiref
+Django
+django-cors-headers # to fix the cross origin request issue
+djangorestframework # to implement rest framework
+djangorestframework-simplejwt  # for jwt authentication
+PyJWT 
+pytz
+sqlparse
+psycopg2-binary
+python-dotenv 
+
